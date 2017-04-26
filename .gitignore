@@ -101,3 +101,4 @@ ENV/
 /data
 *~
 *.h5
+/lesson2/data
