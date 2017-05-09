@@ -103,4 +103,5 @@ ENV/
 *.h5
 /lesson2/data
 submission?.csv
-
+submission.csv
+*.gz
